@@ -9,7 +9,6 @@ Here are some ideas to get you started:
 - 🤔 Age : 20
 - 🔭 I’m currently studying in Universiti Teknologi Malysia(UTM).
 - 🌱 I’m currently learning ......many such as C++
-- 🌱 I’m currently learning
 - 💬 Welcome to ask me anything you want to know about me
 - 📫 How to reach me: tangqing@graduate.utm.my
 
