@@ -4,8 +4,6 @@
 
 My name is Tang Yan Qing, a First Year Student in Bachelor's Degree in Computer Science(Data Engineering).
 
-Here are some ideas to get you started:
-
 - 🤔 Age : 20
 - 🔭 I’m currently studying in Universiti Teknologi Malysia(UTM).
 - 🌱 I’m currently learning ......many such as C++ and html
