@@ -3,15 +3,17 @@
 
 
 My name is Tang Yan Qing, a First Year Student in Bachelor's Degree in Computer Science(Data Engineering).
-
- <p><img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yan-qing09&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555" align="right" style="margin-top:20000px"/>
     
 - 🤔 Age : 20
 - 🔭 I’m currently studying in Universiti Teknologi Malysia(UTM).
 - 🌱 I’m currently learning ......many such as C++ and html
 - 💬 Welcome to ask me anything you want to know about me
-- 📫 How to reach me: tangqing@graduate.utm.my
 
+<p><img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yan-qing09&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555" align="right" style="margin-top:20000px"/>
+ 
+- 📫 How to reach me: tangqing@graduate.utm.my
+ 
+ 
 ### Languages and Tools
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://user-images.githubusercontent.com/128120717/228771294-d9ab05a8-c88c-455a-b375-2e8896ec801f.png" width="30"></a>
 
