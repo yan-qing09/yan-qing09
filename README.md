@@ -13,9 +13,15 @@ I am Tang Yan Qing, a First Year Student in Bachelor's Degree in Computer Scienc
 - 📫 How to reach me: tangqing@graduate.utm.my
  
  <br/>
+
  
 ### Languages and Tools
-<a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://user-images.githubusercontent.com/128120717/228771294-d9ab05a8-c88c-455a-b375-2e8896ec801f.png" width="30"></a>
+<table style="border:1px solid white">
+  <tr>
+    <td><img alt="C++" src="https://user-images.githubusercontent.com/128120717/228771294-d9ab05a8-c88c-455a-b375-2e8896ec801f.png" width="30"></td>
+    <td><img alt="html" src="https://user-images.githubusercontent.com/128120717/230753423-11c4597c-6088-4f44-8d50-58944c79e419.png" width="40"></td>
+  </tr>
+</table>
 
 </p>
 
@@ -25,7 +31,7 @@ I am Tang Yan Qing, a First Year Student in Bachelor's Degree in Computer Scienc
 
 
 
-### My Github Stat
+### My Github Stats
  <p align="center">
  <img src="http://github-readme-streak-stats.herokuapp.com?user=yan-qing09&theme=dracula">
 </p> 
