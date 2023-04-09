@@ -1,10 +1,9 @@
-# Hi there!<img src="https://user-images.githubusercontent.com/128120717/228766172-8197b291-4431-425f-a8e4-84d51448bbfe.gif" width="100">  </p>
+<h1>Hi there!<img src="https://user-images.githubusercontent.com/128120717/228766172-8197b291-4431-425f-a8e4-84d51448bbfe.gif" width="100">  </h1>
 
 
 
-I am Tang Yan Qing, a First Year Student in Bachelor's Degree in Computer Science(Data Engineering).
+<h3>I am Tang Yan Qing, a First Year Student in Bachelor's Degree in Computer Science(Data Engineering).</h3>
     
-- 🤔 Age : 20
 - 🔭 I’m currently studying in Universiti Teknologi Malysia(UTM).
 - 🌱 I’m currently learning ......many such as C++ and html
 - 💬 Welcome to ask me anything you want to know about me
