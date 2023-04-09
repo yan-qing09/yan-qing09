@@ -2,17 +2,17 @@
 
 
 
-My name is Tang Yan Qing, a First Year Student in Bachelor's Degree in Computer Science(Data Engineering).
+I am Tang Yan Qing, a First Year Student in Bachelor's Degree in Computer Science(Data Engineering).
     
 - 🤔 Age : 20
 - 🔭 I’m currently studying in Universiti Teknologi Malysia(UTM).
 - 🌱 I’m currently learning ......many such as C++ and html
 - 💬 Welcome to ask me anything you want to know about me
 
-<p><img alt = "GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=yan-qing09&show_icons=true&hide=issues&icon_color=000000&hide_border=true&title_color=5391FE&text_color=555" align="right" style="margin-top:20000px"/>
  
 - 📫 How to reach me: tangqing@graduate.utm.my
  
+ <br/>
  
 ### Languages and Tools
 <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://user-images.githubusercontent.com/128120717/228771294-d9ab05a8-c88c-455a-b375-2e8896ec801f.png" width="30"></a>
@@ -23,10 +23,11 @@ My name is Tang Yan Qing, a First Year Student in Bachelor's Degree in Computer 
 
 <br/>
 
----
-<br/>
+
+
+### My Github Stat
  <p align="center">
- <img src="http://github-readme-streak-stats.herokuapp.com?user=yan-qing09&theme=radical">
+ <img src="http://github-readme-streak-stats.herokuapp.com?user=yan-qing09&theme=dracula">
 </p> 
 <!--
 **yan-qing09/yan-qing09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
