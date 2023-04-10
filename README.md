@@ -33,6 +33,12 @@
 ### My Github Stats
  <p align="center">
  <img src="http://github-readme-streak-stats.herokuapp.com?user=yan-qing09&theme=dracula">
-</p> 
+</p>
+
+<br/>
+</div>
+<div id="badges" align="left">
+<img src="https://komarev.com/ghpvc/?username=yan-qing09&style=flat-square&color=blue" alt=""/>
+</div>
 <!--
 **yan-qing09/yan-qing09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
