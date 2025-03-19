@@ -2,7 +2,7 @@
 
 
 
-<h3>I am Tang Yan Qing, a First Year Student in Bachelor's Degree in Computer Science(Data Engineering).</h3>
+<h3>I am Tang Yan Qing, a Third Year Student in Bachelor's Degree in Computer Science(Data Engineering).</h3>
     
 - 🔭 I’m currently studying in Universiti Teknologi Malysia(UTM).
 - 🌱 I’m currently learning ......many such as C++ and html
