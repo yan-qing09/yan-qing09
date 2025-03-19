@@ -6,10 +6,10 @@
 
 
 ### 🏫 About Me
-- 🔭 I’m currently studying at **Universiti Teknologi Malaysia (UTM)**.  
-- 🌱 I’m learning C++, HTML, PHP, Python, Java, and more.
-- 🎮 In my free time, I enjoy gaming, watching anime, and exploring new things.  
-- 💬 Ask me anything—except for my bank password. Even I forget it sometimes! 🤷‍♂️
+- 🔭 Studying at Universiti Teknologi Malaysia (UTM)
+- 📍 Based in Johor Bahru, Johor, Malaysia
+- 🌱 Currently learning C++, HTML, PHP, Python, Java, and more
+- 🏆 Participated in hackathons like Google Workspace Hackathon 2024, My Universities Hackathon...
 
 ---
 
