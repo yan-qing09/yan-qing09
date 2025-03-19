@@ -27,8 +27,8 @@
 ---
 
 ### 📊 My GitHub Stats 
- <p align="center">
- <img src="http://github-readme-streak-stats.herokuapp.com?user=yan-qing09&theme=dracula">
+<p align="center">
+ <img src="https://github-readme-streak-stats-eight.vercel.app/?user=yan-qing09&theme=dracula"/>
 </p>
 
 <br/>
