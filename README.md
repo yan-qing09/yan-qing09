@@ -9,18 +9,14 @@
 - 💬 Welcome to ask me anything you want to know about me
 
  
-- 📫 How to reach me: tangqing@graduate.utm.my
+- 📫 How to reach me: <a href="https://github.com/yan-qing09" target="_blank"><img alt="GitHub" src="https://img.shields.io/badge/-yan--qing09-181717?style=flat-square&logo=GitHub&logoColor=white"></a>  <a href="https://www.linkedin.com/in/tang-yan-qing-76a6b8266/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-tangyanqing-blue?style=flat-square&logo=Linkedin&logoColor=white"></a>  <a href="mailto:tangqing@graduate.utm.my" target="_blank"><img alt="Email" src="https://img.shields.io/badge/-tangqing@graduate.utm.my-c14438?style=flat-square&logo=Gmail&logoColor=white"></a>
  
  <br/>
 
  
 ### Languages and Tools
-<table style="border:1px solid white">
-  <tr>
-    <td><img alt="C++" src="https://user-images.githubusercontent.com/128120717/228771294-d9ab05a8-c88c-455a-b375-2e8896ec801f.png" width="30"></td>
-    <td><img alt="html" src="https://user-images.githubusercontent.com/128120717/230753423-11c4597c-6088-4f44-8d50-58944c79e419.png" width="40"></td>
-  </tr>
-</table>
+<!-- <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://user-images.githubusercontent.com/128120717/228771294-d9ab05a8-c88c-455a-b375-2e8896ec801f.png" width="30"></a> -->
+![Languages and Tools](https://skillicons.dev/icons?i=cpp,html,css,figma,php,java,py)
 
 </p>
 
