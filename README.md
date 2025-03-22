@@ -21,8 +21,8 @@
 ---
 
 ### 🔧 Languages and Tools  
-<!-- <a href="https://www.w3schools.com/cpp/" target="_blank"><img alt="C++" src="https://user-images.githubusercontent.com/128120717/228771294-d9ab05a8-c88c-455a-b375-2e8896ec801f.png" width="30"></a> -->
-![Languages and Tools](https://skillicons.dev/icons?i=cpp,html,css,figma,php,java,py)
+![Languages and Tools](https://skillicons.dev/icons?i=cpp,python,php,js,java,html,css,bootstrap,figma)
+
 
 ---
 
